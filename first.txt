@@ -1,2 +1,2 @@
 hello new file
-this is good
+this is fork conflict 
